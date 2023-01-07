@@ -29,7 +29,7 @@ I am a tech fanatic and a fast learner. Currently, I am into Web Development, bu
 - <img src="./Icons/Nextjs.svg" alt="Netflix" height="20px" align="center"/>&nbsp; I&#39;m currently working on buiding more clones.
 - <img src="./Icons/React.svg" alt="DSA" height="20px" align="center"/>&nbsp; I&#39;m also currently learning React JS and Next JS.
 - <img src="./Icons/Computer.svg" alt="Projects" height="20px" align="center"/>&nbsp; Most of my projects are available on [Github](https://github.com/jayeshsaini?tab=repositories).
-- <img src="./Icons/amazon-2.svg" alt="Instagram" height="20px" align="center"/>&nbsp; My over-powered build is the [amazon-clone](https://github.com/jayeshsaini/amazon-2.0). Do check it out &#10024;!
+- <img src="./Icons/amazon4.svg" alt="Instagram" height="20px" align="center"/>&nbsp; My over-powered build is the [amazon-clone](https://github.com/jayeshsaini/amazon-2.0). Do check it out &#10024;!
 - <img src="./Icons/Message.svg" alt="Message" height="20px" align="center"/>&nbsp; I&#39;m happy to help you out so don't hesitate to approach me.
 - <img src="./Icons/LinkedIn.svg" alt="LinkedIn" height="20px" align="center"/>&nbsp; Feel free to connect with me on [LinkedIn](https://linkedin.com/in/jayeshsaini).
 - <img src="./Icons/tv.svg" alt="Novels" height="20px" align="center"/>&nbsp; During my leisure, I like to watch movies and tv shows.
