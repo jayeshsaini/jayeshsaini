@@ -121,7 +121,7 @@ I am a tech fanatic and a fast learner. Currently, I am into Web Development, bu
 
 <br>
 
-![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshsaini&hide=contribs,prs&count_private=true&show_icons=true&border_radius=10&include_all_commits=true&count_private=true)
+![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayeshsaini&hide=contribs,prs&count_private=true&show_icons=true&border_radius=10&include_all_commits=true&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshsaini&card_width=495&border_radius=10)
 
