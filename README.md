@@ -46,7 +46,7 @@ I am a tech fanatic and a fast learner. Currently, I am into Web Development and
       </td>
       <td align="center" width="96">
          <a href="https://www.typescriptlang.org/docs/">
-            <img src="./Icons/TypeScript.svg" width="48" height="48" alt="C++" />
+            <img src="./Icons/Typescript.svg" width="48" height="48" alt="C++" />
          </a><br> TypeScript
       </td>
       <td align="center" width="96">
