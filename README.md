@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?label=%20&labelColor=E4405F&logo=Instagram&logoColor=white)](https://www.instagram.com/jayeshsaini/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?label=%20&labelColor=1DA1F2&logo=Twitter&logoColor=white)](https://twitter.com/jayeshsaini95)
 
-I am a tech fanatic and a fast learner. Currently, I am into Web Development, building clones. I love exploring new Tech stack &#128187; and leveraging them to build cool projects.
+I am a tech fanatic and a fast learner. Currently, I am into Web Development and building clones for popular websites. I love exploring new Tech stack &#128187; and leveraging them to build cool projects.
 <br/>
 
 ## &#129488; **More About Me:**
