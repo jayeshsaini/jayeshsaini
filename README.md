@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?label=%20&labelColor=0077B5&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayeshsaini/)
 [![Twitter Badge](https://img.shields.io/badge/-Facebook-1877F2?label=%20&labelColor=1877F2&logo=Facebook&logoColor=white)](https://www.facebook.com/jayesh.saini.95/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?label=%20&labelColor=E4405F&logo=Instagram&logoColor=white)](https://www.instagram.com/jayeshsaini/)
@@ -43,12 +42,12 @@ I am a tech fanatic and a fast learner. Currently, I am into Web Development, bu
       <td align="center" width="96">
          <a href="https://docs.oracle.com/javase/tutorial/">
             <img src="./Icons/Java.svg" width="48" height="48" alt="Java" />
-         </a><br> JAVA
+         </a><br> Java
       </td>
       <td align="center" width="96">
-         <a href="https://cplusplus.com/doc/tutorial/">
-            <img src="./Icons/c++.svg" width="48" height="48" alt="C++" />
-         </a><br> C++
+         <a href="https://www.typescriptlang.org/docs/">
+            <img src="./Icons/TypeScript.svg" width="48" height="48" alt="C++" />
+         </a><br> TypeScript
       </td>
       <td align="center" width="96">
          <a href="https://devdocs.io/html/">
@@ -63,54 +62,54 @@ I am a tech fanatic and a fast learner. Currently, I am into Web Development, bu
       <td align="center" width="96">
          <a href="https://javascript.info/">
             <img src="./Icons/Javascript.svg" width="48" height="48" alt="JavaScript" />
-         </a><br> JAVASCRIPT
+         </a><br> JavaScript
       </td>
       <td align="center" width="96">
          <a href="https://reactjs.org/">
             <img src="./Icons/React.svg" width="48" height="48" alt="ReactJs" />
-         </a><br> REACT
+         </a><br> React
       </td>
       <td align="center" width="96">
          <a href="https://nextjs.org/">
             <img src="./Icons/Nextjs.svg" width="48" height="48" alt="NextJs" />
-         </a><br> NEXTJS
+         </a><br> Next.js
       </td>
    </tr>
    <tr>
       <td align="center" width="96">
          <a href="https://www.python.org/">
             <img src="./Icons/Python.svg" width="48" height="48" alt="Python" />
-         </a><br> PYTHON
+         </a><br> Python
       </td>
       <td align="center" width="96">
          <a href="https://getbootstrap.com/">
             <img src="./Icons/Bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-         </a><br> BOOTSTRAP
+         </a><br> Bootstrap
       </td>
       <td align="center" width="96">
          <a href="https://tailwindcss.com/">
             <img src="./Icons/Tailwind.svg" width="48" height="48" alt="Tailwind" />
-         </a><br> TAILWIND
+         </a><br> Tailwind CSS
       </td>
       <td align="center" width="96">
          <a href="https://firebase.google.com/">
             <img src="./Icons/Firebase.svg" width="48" height="48" alt="Firebase" />
-         </a><br> FIREBASE
+         </a><br> Firebase
       </td>
       <td align="center" width="96">
          <a href="https://redux.js.org/">
             <img src="./Icons/Redux.svg" width="48" height="48" alt="Redux" />
-         </a><br> REDUX
+         </a><br> Redux
       </td>
       <td align="center" width="96">
          <a href="https://stripe.com/">
             <img src="./Icons/Stripe.svg" width="48" height="48" alt="Stripe" />
-         </a><br> STRIPE
+         </a><br> Stripe
       </td>
       <td align="center" width="96">
          <a href="https://docs.microsoft.com/en-us/powershell/">
             <img src="./Icons/Powershell.svg" width="48" height="48" alt="Powershell" />
-         </a><br> POWERSHELL
+         </a><br> PowerShell
       </td>
    </tr>
 </table>
